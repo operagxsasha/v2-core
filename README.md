@@ -1,7 +1,7 @@
 # Sablier V2 Core [![Github Actions][gha-badge]][gha] [![Coverage][codecov-badge]][codecov] [![Foundry][foundry-badge]][foundry] [![Discord][discord-badge]][discord]
 
 [gha]: https://github.com/sablier-labs/v2-core/actions
-[gha-badge]: https://github.com/sablier-labs/v2-core/actions/workflows/ci.yml/badge.svg
+[gha-badge]: https://github.com/sablier-labs/v2-core/actions/workflows/ci.yml
 [codecov]: https://codecov.io/gh/sablier-labs/v2-core
 [codecov-badge]: https://codecov.io/gh/sablier-labs/v2-core/branch/main/graph/badge.svg
 [discord]: https://discord.gg/bSwRCwWRsT
